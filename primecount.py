@@ -21,6 +21,9 @@ for i in prime:
 print(new)
 
 
+print("hiiiiii")
+print("welcomeeee")
+
 
 
 
